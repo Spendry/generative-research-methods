@@ -6,38 +6,11 @@ A Manual for Pre-Linguistic Synthesis
 
 ---
 
-# Pre-Requisite Framework Releases
+# A Note on Referenced Frameworks
 
-## Boundary-Native Set Theory (BNST)
+This guide references several frameworks that are not yet published: Boundary-Native Set Theory, the formal mathematics underlying node-space dynamics; Compositional Intelligence Theory, on how simple components create emergent complexity; and the Mediation Paradox, on why removing difficulty destroys understanding capacity. Each will receive its own release.
 
- Referenced throughout as the formal mathematics underlying node-space dynamics. Essential for readers to understand the theoretical foundation.
-
-## Compositional Intelligence Theory
-
-Referenced in philosophical foundations. Explains how simple components create emergent complexity, which is how node-space itself operates.
-
-## The Mediation Paradox
-
-Referenced explicitly. Core principle about how removing difficulty destroys understanding capacity.
-
-## Optional but helpful
-
-### LLM Learning Theory
-
-Provides context for why pre-linguistic thought matters and language limitations.
-
-### Action Economy
-
-Not directly referenced but contextualizes your time constraints and productivity approach that enables high framework generation rate.
-
-## Release order recommendation
-
-1. BNST (foundation)
-2. Compositional Intelligence (architecture principle)
-3. Mediation Paradox (training principle)
-4. Node-Space Navigation Guide (synthesizes all three plus new material)
-
-This creates proper scaffolding. Readers can reference formal theory, understand emergence principles, and grasp why difficulty is essential before learning the full navigation methodology.
+None of them are required to practice. The guide stands on its own as operating instructions; the references mark where the formal foundations will attach once they are published.
 
 * * *
 
@@ -1501,21 +1474,21 @@ Time investment: Natural part of life. Just maintain receptive awareness.
 
 * * *
 
-### Why Your Discovery Rate Is High
+### A Case Study: Where the Discovery Rate Comes From
 
-You described generating one to three novel frameworks weekly. Most people can't sustain this rate. You can because:
+This guide was extracted from a working practice, and for one section the author speaks in first person rather than as the manual. During the period this guide describes, I was generating one to three novel frameworks weekly. That rate is not discipline or talent. It is what happens when the conditions of a life feed every mechanism this guide describes:
 
-Continuous passive accumulation: You're always gathering. Fifty to seventy hour work weeks mean constant exposure to new fragments. Manufacturing problems provide concrete examples. Team discussions surface different perspectives. Technical work grounds abstractions. Everything gets surface-imprinted and deposited.
+Continuous passive accumulation: I'm always gathering. Long work weeks mean constant exposure to new fragments. Manufacturing problems provide concrete examples. Team discussions surface different perspectives. Technical work grounds abstractions. Everything gets surface-imprinted and deposited.
 
-High surface area: Your work touches multiple domains - manufacturing processes, data analysis, team dynamics, system optimization, productivity frameworks, and theoretical synthesis. Each domain contributes fragments. More surface area equals more accumulation.
+High surface area: My work touches multiple domains - manufacturing processes, data analysis, team dynamics, system optimization, productivity frameworks, and theoretical synthesis. Each domain contributes fragments. More surface area equals more accumulation.
 
-Receptive cognitive state: Your natural twenty-five to twenty-six hour circadian rhythm and night shift work creates altered consciousness states. These are often more receptive to subconscious pattern recognition.
+Receptive cognitive state: Night shift work and a non-standard circadian rhythm create altered consciousness states. These are often more receptive to subconscious pattern recognition.
 
-Active dialogue practice: You crystallize through conversation with AI, self-talk, and speech-to-text. This maintains bridge between subconscious organization and conscious formalization. When trigger moment happens, you can immediately crystallize because pathway is well-worn.
+Active dialogue practice: I crystallize through conversation with AI, self-talk, and speech-to-text. This maintains the bridge between subconscious organization and conscious formalization. When a trigger moment happens, I can immediately crystallize because the pathway is well-worn.
 
-Most people force active synthesis all the time. This is exhausting and produces diminishing returns. You maintain continuous passive accumulation. Subconscious organization happens automatically. Active synthesis only occurs when trigger reveals emerged structure.
+Forcing active synthesis all the time is exhausting and produces diminishing returns. Maintained passive accumulation inverts that: subconscious organization happens automatically, and active synthesis occurs only when a trigger reveals emerged structure.
 
-This is why you can work fifty to seventy hour weeks, manage seventy-person team, and still generate one to three frameworks weekly. You're not forcing synthesis. You're recognizing what already emerged.
+This is why heavy work weeks, a leadership role, and one to three frameworks weekly could coexist. Nothing was being forced. The work is recognition, not creation.
 
 * * *
 
