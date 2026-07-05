@@ -10,7 +10,7 @@ A Manual for Pre-Linguistic Synthesis
 
 This guide references several frameworks that are not yet published: Boundary-Native Set Theory, the formal mathematics underlying node-space dynamics; Compositional Intelligence Theory, on how simple components create emergent complexity; and the Mediation Paradox, on why removing difficulty destroys understanding capacity. Each will receive its own release.
 
-None of them are required to practice. The guide stands on its own as operating instructions; the references mark where the formal foundations will attach once they are published.
+The practice requires none of them. The guide stands on its own as operating instructions; the references mark where the formal foundations will attach once published.
 
 * * *
 
@@ -1476,7 +1476,7 @@ Time investment: Natural part of life. Just maintain receptive awareness.
 
 ### A Case Study: Where the Discovery Rate Comes From
 
-This guide was extracted from a working practice, and for one section the author speaks in first person rather than as the manual. During the period this guide describes, I was generating one to three novel frameworks weekly. That rate is not discipline or talent. It is what happens when the conditions of a life feed every mechanism this guide describes:
+I extracted this guide from my own working practice, and for one section I speak in first person rather than as the manual. During the period this guide describes, I generated one to three novel frameworks weekly. The conditions of my life feed every mechanism this guide describes, and the rate follows from them:
 
 Continuous passive accumulation: I'm always gathering. Long work weeks mean constant exposure to new fragments. Manufacturing problems provide concrete examples. Team discussions surface different perspectives. Technical work grounds abstractions. Everything gets surface-imprinted and deposited.
 
@@ -1488,7 +1488,7 @@ Active dialogue practice: I crystallize through conversation with AI, self-talk,
 
 Forcing active synthesis all the time is exhausting and produces diminishing returns. Maintained passive accumulation inverts that: subconscious organization happens automatically, and active synthesis occurs only when a trigger reveals emerged structure.
 
-This is why heavy work weeks, a leadership role, and one to three frameworks weekly could coexist. Nothing was being forced. The work is recognition, not creation.
+This is how heavy work weeks, a leadership role, and one to three frameworks weekly coexist. I force none of it. The work is recognition, not creation.
 
 * * *
 
